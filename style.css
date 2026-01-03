@@ -1,0 +1,31 @@
+.css-qhqt3i {
+    background: linear-gradient(rgba(239, 247, 255, 0.3) 0%, rgb(239, 247, 255) 100%);
+    padding: 40px;
+    border-radius: 44px;
+    margin-bottom: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.css-194z35r {
+    background: rgb(93, 135, 252);
+    border-radius: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding: 8px 24px 4px;
+    display: inline-block;
+}
+
+.css-p0w4rl {
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(38, 44, 51);
+    margin-top: 32px;
+    margin-bottom: 8px;
+}
+
+.block {
+    width: 400px;
+    display: block;
+    margin: 30px;
+    gap: 20px;
+}
